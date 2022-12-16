@@ -42,10 +42,12 @@ Scaling system will be composed of 3 levels:
 
 Artemis program :
 https://www.nasa.gov/sites/default/files/atoms/files/artemis_plan-20200921.pdf
+
 Artemis spacesuit :
 https://www.nasa.gov/sites/default/files/atoms/files/artemis_generation_spacesuits_508.pdf
 
 Music :
+
   Releasing stress through the power of music with some exemples :
 https://www.unr.edu/counseling/virtual-relaxation-room/releasing-stress-through-the-power-of-music?fbclid=IwAR2DkpDVNhiZ1LuKYA2tRnCcJ7sde4mNvRdl2U5kj6FlZhMiyXRHNyOHmrA
   Music in space , its history and evolution
@@ -63,8 +65,6 @@ https://www.healthline.com/health/general-use/how-to-use-transdermal-patch-types
 https://en.wikipedia.org/wiki/Transdermal_patch
 
 WIFI in space :
-
-Existence of the wifi in space
 https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_in_Space.pdf
 
 Mental health problems:
