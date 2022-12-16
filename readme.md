@@ -13,23 +13,22 @@ first woman and the next man to the South Pole of the Moon by 2024
 and establish sustainable exploration with commercial and
 international partners by 2028. the Artemis program will use the
 Moon as a testbed for crewed exploration farther into the solar
-system, beginning with Mars.
-
-on this topic, we must come up with a solution to help facilitate the astronaut’s
+system, beginning with Mars.On this topic, we must come up with a solution to help facilitate the astronaut’s
 daily tasks, while applying the principles of Human augmentation, in order to assure mission success. In order to enhance our skills on researching slkill and sharpening our technical skills since it is The goal of this challenge in alignment with the IEEE Goals.
 
-As our mission is to provide solution to help our astonauts to achieve their goals from this mission on its perfect way and with zeros tolerance, so thats why we obliged to integrate Human augmentation and assistance systems (haas).
+As our mission is to provide solution to help our astonauts to achieve their goals from this mission on its perfect way and with zeros tolerance, so thats why we obliged to integrate Human augmentation and assistance systems (HAAS).
 
 Our solution is focusing on the psycoligical side for our astronauts since mental health can highly either increase or decrease performance.
 each taks is depending on the astronaut's mental stability, focus state and concetration, so our solution will take part of most of the tasks.
 
 Our solution is based on detecting vitals signs and emotions of astonauts using brain sensors and computer vision model.
 
-decisions will be taken depending on the data collected by these componenents. 
+Decisions will be taken depending on the data collected by these componenents. 
 
-the application of HAAS will be applied in the treatement phase.
+The application of HAAS will be applied in the treatement phase.
 
-Treatement phase: depending on the inputs (Brain sensors, Computer vision model) many variables will be extracted and used in a specefic mathematical formula.
+### Treatement phase:
+depending on the inputs (Brain sensors, Computer vision model) many variables will be extracted and used in a specefic mathematical formula.
 
 This formula in not yet fixed until discussing the Idea with Doctors , scientists and man of knowledge.
 
