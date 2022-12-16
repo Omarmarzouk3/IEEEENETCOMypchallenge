@@ -1,13 +1,13 @@
 # IEEE ENETCOM YP CHallenge :
 
-overview :
+## Overview :
 This is our repositary explaining our solution in YP challenge for the TSYP X event. It includes the solution description, the research papper and the articles that we extracted informations from during our flight.
 
-layout: 
+## Layout: 
 this repos is splitted into x subdirectories to a better explaination, in order each sub-directory has a short description for the technologies used for our solutions and a research paper or an article to provide its advancement, the tech used and our needs from it.
 
 
-Description: 
+## Description: 
 NASA is rapidly moving forward on the Artemis program to send the
 first woman and the next man to the South Pole of the Moon by 2024
 and establish sustainable exploration with commercial and
@@ -33,10 +33,11 @@ Treatement phase: depending on the inputs (Brain sensors, Computer vision model)
 
 This formula in not yet fixed until discussing the Idea with Doctors , scientists and man of knowledge.
 
-Scaling system will be composed of 3 levels: 
--First level: 0=>3 Special type of Calming music.	
--Second Level: 3=>7 Special message using wearable technology
--Third Level: 7=>10 Emergency Alert to all nearby astonauts and gateaway, in this level an injection with chemical substances depending on the case.
+Scaling system will be composed of 3 levels:
+
+-First level:   0 => 3  :Special type of Calming music.	
+-Second Level:  3 => 7  :Special message using wearable technology
+-Third Level:   7=>10   :Emergency Alert to all nearby astonauts and gateaway, in this level an injection with chemical substances depending on the case.
 
 Ressources: 
 
@@ -44,11 +45,11 @@ Artemis program :
 https://www.nasa.gov/sites/default/files/atoms/files/artemis_plan-20200921.pdf
 Artemis spacesuit :
 https://www.nasa.gov/sites/default/files/atoms/files/artemis_generation_spacesuits_508.pdf
+
 Music :
-- Releasing stress through the power of music with some exemples :
-https://www.unr.edu/counseling/virtual-relaxation-room/releasing-stress-through-the-power-of-
-music?fbclid=IwAR2DkpDVNhiZ1LuKYA2tRnCcJ7sde4mNvRdl2U5kj6FlZhMiyXRHNyOHmrA
--Music in space , its history and evolution
+  Releasing stress through the power of music with some exemples :
+https://www.unr.edu/counseling/virtual-relaxation-room/releasing-stress-through-the-power-of-music?fbclid=IwAR2DkpDVNhiZ1LuKYA2tRnCcJ7sde4mNvRdl2U5kj6FlZhMiyXRHNyOHmrA
+  Music in space , its history and evolution
 https://en.wikipedia.org/wiki/Music_in_space?fbclid=IwAR1I73YzYPzybWTvXBRBu7KH7LvmVE7_10iJ
 c5zY8C5j-ALxQFfzV1PVJKc
 computer vision model :
