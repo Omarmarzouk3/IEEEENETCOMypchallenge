@@ -27,7 +27,7 @@ Decisions will be taken depending on the data collected by these componenents.
 
 The application of HAAS will be applied in the treatement phase.
 
-### Treatement phase:
+Treatement phase:
 depending on the inputs (Brain sensors, Computer vision model) many variables will be extracted and used in a specefic mathematical formula.
 
 This formula in not yet fixed until discussing the Idea with Doctors , scientists and man of knowledge.
@@ -38,7 +38,7 @@ Scaling system will be composed of 3 levels:
 -Second Level:  3 => 7  :Special message using wearable technology
 -Third Level:   7=>10   :Emergency Alert to all nearby astonauts and gateaway, in this level an injection with chemical substances depending on the case.
 
-Ressources: 
+## Ressources: 
 
 Artemis program :
 https://www.nasa.gov/sites/default/files/atoms/files/artemis_plan-20200921.pdf
@@ -51,25 +51,23 @@ https://www.unr.edu/counseling/virtual-relaxation-room/releasing-stress-through-
   Music in space , its history and evolution
 https://en.wikipedia.org/wiki/Music_in_space?fbclid=IwAR1I73YzYPzybWTvXBRBu7KH7LvmVE7_10iJ
 c5zY8C5j-ALxQFfzV1PVJKc
-computer vision model :
-AI emotion recognition, its history , steps and domains of application.
 
-https://viso.ai/deep-learning/visual-emotion-ai-
-recognition/#:~:text=Emotion%20AI%2C%20also%20called%20Affective,to%20assess%20their%20e
-motional%20state.
+Computer Vision model :
+AI emotion recognition, its history , steps and domains of application.
+https://viso.ai/deep-learning/visual-emotion-ai-recognition/#:~:text=Emotion%20AI%2C%20also%20called%20Affective,to%20assess%20their%20emotional%20state.
 
 Patch injection :
+
 -the patch injection : how it works and what to avoid when you apply it.
-https://www.healthline.com/health/general-use/how-to-use-transdermal-patch
--types of patch injection (we can inject with patch whatever we want)
+https://www.healthline.com/health/general-use/how-to-use-transdermal-patch-types
 https://en.wikipedia.org/wiki/Transdermal_patch
 
 WIFI in space :
+
 Existence of the wifi in space
 https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_in_Space.pdf
 
 Mental health problems:
-
 
 These are blogs where astronauts from the international space station ISS report daily tasks to the nasa and that contains some health reports and space effects on the astronauts  mental health .
 https://blogs.nasa.gov/stationreport/2018/05/11/
@@ -80,7 +78,7 @@ This link provide you with some informations about how space traveling affects a
 
 https://cmsw.mit.edu/angles/2019/headspace-how-space-travel-affects-astronaut-mental-health/?fbclid=IwAR2JCIvlHegvm3FIF_c37kOxS-ySH8XlwIQlvYV0s2rsY-ypZiLuVBa9Fpk
 
-BCI:
+Brain Computer Interfaces (BCI):
 
 An article explaining What is brain computer interface , how does it work and how it can help in healthcare.
 
